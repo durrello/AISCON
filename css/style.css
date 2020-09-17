@@ -1,10 +1,3 @@
-/*
-  Theme Name: TheEvent
-  Theme URL: https://bootstrapmade.com/theevent-conference-event-bootstrap-template/
-  Author: BootstrapMade.com
-  License: https://bootstrapmade.com/license/
-*/
-
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -300,6 +293,8 @@ h6 {
   width: 100%;
 }
 
+
+
 .nav-menu li.buy-tickets a {
   color: #fff;
   background: #f82249;
@@ -316,6 +311,7 @@ h6 {
 
 .nav-menu li.buy-tickets a:hover {
   background: none;
+  cursor: pointer;
 }
 
 .nav-menu li.buy-tickets:hover a:before,

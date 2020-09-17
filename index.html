@@ -59,10 +59,41 @@
           <li><a href="#Resources" target="_blank">Resources</a></li>
           <li><a href="#contact">Contact</a></li>
           <li class="buy-tickets"><a href="#buy-tickets">Buy Tickets</a></li>
+          <li class="buy-tickets" data-toggle="modal" data-target="#login-modal" data-ticket-type="standard-access"><a>LOGIN</a></li>
         </ul>
       </nav><!-- #nav-menu-container -->
     </div>
   </header><!-- #header -->
+
+    <!--==========================
+    login modal
+  ============================-->
+    <!-- Modal login Form -->
+    <div id="login-modal" class="modal fade">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h4 class="modal-title">Enter Login Credentials</h4>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            <form method="POST" action="#">
+              <div class="form-group">
+                <input type="text" class="form-control" name="your-name" placeholder="Your user name">
+              </div>
+              <div class="form-group">
+                <input type="text" class="form-control" name="your-email" placeholder="Your Email">
+              </div>
+              <div class="text-center">
+                <button type="submit" class="btn">LOGIN</button>
+              </div>
+            </form>
+          </div>
+        </div><!-- /.modal-content -->
+      </div><!-- /.modal-dialog -->
+    </div><!-- /.modal -->
 
   <!--==========================
     Intro Section
@@ -907,32 +938,6 @@
                   </p>
                 </div>
               </li>
-
-              <!-- <li>
-                <a data-toggle="collapse" href="#faq5" class="collapsed">Tempus quam pellentesque nec nam aliquam sem et
-                  tortor consequat? <i class="fa fa-minus-circle"></i></a>
-                <div id="faq5" class="collapse" data-parent="#faq-list">
-                  <p>
-                    Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in.
-                    Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est.
-                    Purus gravida quis blandit turpis cursus in
-                  </p>
-                </div>
-              </li>
-
-              <li>
-                <a data-toggle="collapse" href="#faq6" class="collapsed">Tortor vitae purus faucibus ornare. Varius vel
-                  pharetra vel turpis nunc eget lorem dolor? <i class="fa fa-minus-circle"></i></a>
-                <div id="faq6" class="collapse" data-parent="#faq-list">
-                  <p>
-                    Laoreet sit amet cursus sit amet dictum sit amet justo. Mauris vitae ultricies leo integer malesuada
-                    nunc vel. Tincidunt eget nullam non nisi est sit amet. Turpis nunc eget lorem dolor sed. Ut
-                    venenatis tellus in metus vulputate eu scelerisque. Pellentesque diam volutpat commodo sed egestas
-                    egestas fringilla phasellus faucibus. Nibh tellus molestie nunc non blandit massa enim nec.
-                  </p>
-                </div>
-              </li> -->
-
             </ul>
           </div>
         </div>
@@ -1182,7 +1187,7 @@
         <div class="row">
 
           <div class="col-lg-3 col-md-6 footer-info">
-            <img src="img/logo_aiscon.png" alt="TheEvenet">
+            <img src="img/logo__.png" alt="AISCON">
             <p>AISCON; Africa’s Information Security Conference - is organised by Zuoix, an
               information security company based in Limbe, Cameroon (www.zuoix.com) and Click an
               I.T service Company based in Douala, Cameroon (www.click-e-consulting.com). This
@@ -1216,17 +1221,6 @@
             </ul>
           </div>
 
-          <!-- <div class="col-lg-3 col-md-6 footer-links">
-            <h4>Useful Links</h4>
-            <ul>
-              <li><i class="fa fa-angle-right"></i> <a href="#">Home</a></li>
-              <li><i class="fa fa-angle-right"></i> <a href="#">About us</a></li>
-              <li><i class="fa fa-angle-right"></i> <a href="#">Services</a></li>
-              <li><i class="fa fa-angle-right"></i> <a href="#">Terms of service</a></li>
-              <li><i class="fa fa-angle-right"></i> <a href="#">Privacy policy</a></li>
-            </ul>
-          </div> -->
-
           <div class="col-lg-3 col-md-6 footer-contact">
             <h4>Contact Us</h4>
             <p>
@@ -1234,7 +1228,7 @@
               Half-Mile,<br>
               Limbe – CMR<br>
               <strong>Phone:</strong> (+237) 2333 30005<br>
-              <strong>Email:</strong> info@zuoix.com<br>
+              <strong>Email:</strong> info@aison.is<br>
             </p>
 
             <div class="social-links">
