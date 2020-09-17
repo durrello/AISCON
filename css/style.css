@@ -971,7 +971,7 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 
 #hotels .hotel-img {
-  overflow: hidden;
+  /* overflow: hidden; */
   margin-bottom: 15px;
 }
 
@@ -994,7 +994,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   color: #f82249;
 }
 
-#hotels .stars {
+#hotels .stars { 
   padding: 0 20px;
   margin-bottom: 5px;
 }
