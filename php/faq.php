@@ -13,6 +13,17 @@
           <div class="col-lg-9">
             <ul id="faq-list">
 
+            <li>
+                <a data-toggle="collapse" class="collapsed" href="#faq1">Will AISCON 2020 still take place as scheduled?
+                  <i class="fa fa-minus-circle"></i></a>
+                <div id="faq1" class="collapse" data-parent="#faq-list">
+                  <p>
+                    Yes, but due to the ongoing COVID-19 pandemic AISCON 2020 is going to be a virtual event,
+                    link to join the conference will be shared as the day approaches
+                  </p>
+                </div>
+              </li>
+
               <li>
                 <a data-toggle="collapse" class="collapsed" href="#faq1">What is AISCON
                   <i class="fa fa-minus-circle"></i></a>
@@ -57,7 +68,18 @@
                   AISCON<i class="fa fa-minus-circle"></i></a>
                 <div id="faq4" class="collapse" data-parent="#faq-list">
                   <p>
-                    Ask boss
+                    Yes, but to do so, they have to have membership with AISCON
+                  </p>
+                </div>
+              </li>
+
+              <li>
+                <a data-toggle="collapse" href="#faq4" class="collapsed">What does it take to be a speaker AISCON<i class="fa fa-minus-circle"></i></a>
+                <div id="faq4" class="collapse" data-parent="#faq-list">
+                  <p>
+                    Firstly to qualify to be a speaker at AISCON, individual/company should have membership
+                    <br>
+                    Secondly, the individual is required to have written, verified and publich articles on the AISCON blog
                   </p>
                 </div>
               </li>

@@ -20,11 +20,9 @@
           <li><a href="#hotels">Hotels</a></li>
           <li><a href="#gallery">Gallery</a></li>
           <li><a href="#supporters">Sponsors</a></li>
-          <li><a href="blog.php" data-toggle="modal" data-target="#login-modal" target="_blank">Blog</a></li>
           <li><a href="#Resources" target="_blank">Resources</a></li>
           <li><a href="#contact">Contact</a></li>
           <li class="buy-tickets"><a href="#buy-tickets">Buy Tickets</a></li>
-          <li class="buy-tickets" data-toggle="modal" data-target="#login-modal" data-ticket-type="standard-access"><a>LOGIN</a></li>
         </ul>
       </nav><!-- #nav-menu-container -->
     </div>

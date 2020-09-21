@@ -8,15 +8,9 @@
 
           <div class="col-lg-3 col-md-6 footer-info">
             <img src="img/logo_latest2.png" alt="AISCON">
-            <p>AISCON; Africa’s Information Security Conference - is organised by Zuoix, an
-              information security company based in Limbe, Cameroon (www.zuoix.com) and Click an
-              I.T service Company based in Douala, Cameroon (www.click-e-consulting.com). This
-              conference aims at educating and informing governments, businesses and individuals
-              on the negative effects of hacking and cyber crimes.
-              The theme: ​ WIRELESS SECURITY; ​ involving phones, cars, houses, alarm systems
-              and much more at individual and corporate or group levels. Our focus is to disarm
-              hackers and cyber criminals and hand the power to you by showing you how the afore
-              mentioned groups operate, thereby saving money.</p>
+            <p>AISCON; Africa’s Information Security Conference - is a yearly conference which is organised by Zuoix, 
+              and see's participants from all round the coutry, Africa and the world at large.
+            </p>
           </div>
 
           <div class="col-lg-3 col-md-6 footer-links">
@@ -44,11 +38,10 @@
           <div class="col-lg-3 col-md-6 footer-contact">
             <h4>Contact Us</h4>
             <p>
-              PressBook Building,<br>
-              Half-Mile,<br>
               Limbe – CMR<br>
               <strong>Phone:</strong> (+237) 2333 30005<br>
               <strong>Email:</strong> info@aison.is<br>
+              <strong>Website:</strong> www.aiscon.is<br>
             </p>
 
             <div class="social-links">

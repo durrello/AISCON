@@ -14,15 +14,12 @@
               <img src="img/speakers/mr_elias.png" alt="Speaker 1" class="img-fluid">
               <div class="details">
                 <h3><a href="speaker-details.html">Mr. Elias Ebone</a></h3>
-                <p>Sr Network Engineer at United
-                  States Agency For International
-                  Development. (USAID) Washington
-                  D.C. Metro Area.</p>
+                <p></p>
                 <div class="social">
-                  <a href=""><i class="fa fa-twitter"></i></a>
-                  <a href=""><i class="fa fa-facebook"></i></a>
+                  <a href="https://twitter.com/eboneman"><i class="fa fa-twitter"></i></a>
+                  <a href="https://www.facebook.com/eebone"><i class="fa fa-facebook"></i></a>
                   <a href=""><i class="fa fa-google-plus"></i></a>
-                  <a href=""><i class="fa fa-linkedin"></i></a>
+                  <a href="https://www.linkedin.com/in/elias-ebone-1aba6a4/"><i class="fa fa-linkedin"></i></a>
                 </div>
               </div>
             </div>
@@ -35,10 +32,10 @@
                 <p>Founder / CEO <br>
                   Zixtech Business</p>
                 <div class="social">
-                  <a href=""><i class="fa fa-twitter"></i></a>
-                  <a href=""><i class="fa fa-facebook"></i></a>
+                  <a href="https://www.twitter.com/paulmbuaoficial"><i class="fa fa-twitter"></i></a>
+                  <a href="https://www.facebook.com/paulbabz"><i class="fa fa-facebook"></i></a>
                   <a href=""><i class="fa fa-google-plus"></i></a>
-                  <a href=""><i class="fa fa-linkedin"></i></a>
+                  <a href="https://www.linkedin.com/in/paulmbuaofficial"><i class="fa fa-linkedin"></i></a>
                 </div>
               </div>
             </div>

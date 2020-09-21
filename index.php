@@ -14,7 +14,7 @@ include 'php/sponsors.php';
 include 'php/faq.php';
 include 'php/subscription.php';
 include 'php/buy_tickets.php';
-include 'php/contact.php';
+include 'contact.php';
 include 'php/footer.php';
 include 'php/js_files.php';
 ?>

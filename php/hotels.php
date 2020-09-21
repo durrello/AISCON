@@ -6,7 +6,7 @@
       <div class="container">
         <div class="section-header">
           <h2>Hotels</h2>
-          <p>Here are some nearby hotels</p>
+          <p>Some nearby hotels</p>
         </div>
 
         <div class="row" style="text-align: center;">

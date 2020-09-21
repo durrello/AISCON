@@ -10,17 +10,17 @@
             <button type="button" class="close" data-dismiss="modal" aria-label="Close">
               <span aria-hidden="true">&times;</span>
             </button>
-          </div>
+          </div> 
           <div class="modal-body">
-            <form method="POST" action="#">
+            <form method="POST" action="./includes/login.inc.php" class="login-form">
               <div class="form-group">
-                <input type="text" class="form-control" name="your-name" placeholder="Your user name">
+                <input type="text" class="form-control" name="uid" placeholder="Your user name">
               </div>
               <div class="form-group">
-                <input type="text" class="form-control" name="your-email" placeholder="Your Email">
+                <input type="text" class="form-control" name="email" placeholder="Your Email">
               </div>
               <div class="text-center">
-                <button type="submit" class="btn">LOGIN</button>
+                <button type="submit" name="submit" class="btn">LOGIN</button>
               </div>
             </form>
           </div>

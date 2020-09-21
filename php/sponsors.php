@@ -24,37 +24,43 @@
 
           <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="supporter-logo">
-              <img src="img/supporters/3.png" class="img-fluid" alt="">
+              <img src="img/supporters/ANTIC_logo.png" class="img-fluid" alt="">
             </div>
           </div>
 
           <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="supporter-logo">
-              <img src="img/supporters/4.png" class="img-fluid" alt="">
+              <img src="img/supporters/camtel_logo.png" class="img-fluid" alt="">
             </div>
           </div>
 
           <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="supporter-logo">
-              <img src="img/supporters/5.png" class="img-fluid" alt="">
+              <img src="img/supporters/zixtech.jpg" class="img-fluid" alt="">
             </div>
           </div>
 
           <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="supporter-logo">
-              <img src="img/supporters/6.png" class="img-fluid" alt="">
+              <img src="img/supporters/sm.png" class="img-fluid" alt="">
             </div>
           </div>
 
           <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="supporter-logo">
-              <img src="img/supporters/7.png" class="img-fluid" alt="">
+              <img src="img/supporters/scandavinia.png" class="img-fluid" alt="">
             </div>
           </div>
 
           <div class="col-lg-3 col-md-4 col-xs-6">
             <div class="supporter-logo">
-              <img src="img/supporters/8.png" class="img-fluid" alt="">
+              <img src="img/supporters/fini_logo.png" class="img-fluid" alt="">
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-4 col-xs-6">
+            <div class="supporter-logo">
+              <img src="img/supporters/logo-mbayaville.jpg" class="img-fluid" alt="">
             </div>
           </div>
 
