@@ -17,7 +17,7 @@
                 <input type="text" class="form-control" name="uid" placeholder="Your user name">
               </div>
               <div class="form-group">
-                <input type="text" class="form-control" name="email" placeholder="Your Email">
+                <input type="text" class="form-control" name="email" placeholder="Password">
               </div>
               <div class="text-center">
                 <button type="submit" name="submit" class="btn">LOGIN</button>
