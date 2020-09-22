@@ -9,7 +9,7 @@
           <p>Some nearby hotels</p>
         </div>
 
-        <div class="row" style="text-align: center;">
+        <div class="row" style="justify-content: center;">
 
           <div class="col-lg-4 col-md-6">
             <div class="hotel">

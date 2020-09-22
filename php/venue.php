@@ -19,8 +19,8 @@
 
           <div class="col-lg-6 venue-info">
             <div class="row justify-content-center">
-              <div class="col-11 col-lg-8">
-                <h3>Scandinavia hotel Newtown-Limbe</h3>
+              <div class="col-11 col-lg-8"> 
+              <h3 style=" text-align: left;" >Scandinavia hotel Newtown-Limbe</h3>
                 <p>Quinick Scandinavia Hotel is located in a convenient location with a wider view of the Atlantic
                   ocean. Easily accessible from every directions. Our
                   rooms are cozy and bright with comfortable beds, couches and plenty of space. You'll have all the
@@ -44,6 +44,14 @@
             <div class="venue-gallery">
               <a href="img/venue-gallery/hotel_5.jpg" class="venobox" data-gall="venue-gallery">
                 <img src="img/venue-gallery/hotel_5.jpg" alt="" class="img-fluid">
+              </a>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-4">
+            <div class="venue-gallery">
+              <a href="img/venue-gallery/rsz_hotel_6.png" class="venobox" data-gall="venue-gallery">
+                <img src="img/venue-gallery/rsz_hotel_6.png" alt="" class="img-fluid">
               </a>
             </div>
           </div>
