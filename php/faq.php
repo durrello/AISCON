@@ -25,9 +25,9 @@
               </li>
 
               <li>
-                <a data-toggle="collapse" class="collapsed" href="#faq1">What is AISCON
+                <a data-toggle="collapse" class="collapsed" href="#faq2">What is AISCON
                   <i class="fa fa-minus-circle"></i></a>
-                <div id="faq1" class="collapse" data-parent="#faq-list">
+                <div id="faq2" class="collapse" data-parent="#faq-list">
                   <p>
                     AISCON; Africa’s Information Security Conference - is organised by Zuoix, an
                     information security company based in Limbe, Cameroon (www.zuoix.com) and Click an
@@ -43,9 +43,9 @@
               </li>
 
               <li>
-                <a data-toggle="collapse" href="#faq2" class="collapsed">What is this year's theme <i
+                <a data-toggle="collapse" href="#faq3" class="collapsed">What is this year's theme <i
                     class="fa fa-minus-circle"></i></a>
-                <div id="faq2" class="collapse" data-parent="#faq-list">
+                <div id="faq3" class="collapse" data-parent="#faq-list">
                   <p>
                     The theme: ​ WIRELESS SECURITY; ​ involving phones, cars, houses, alarm systems
                     and much more at individual and corporate or group levels
@@ -54,9 +54,9 @@
               </li>
 
               <li>
-                <a data-toggle="collapse" href="#faq3" class="collapsed">Location of AISCON next year?<i
+                <a data-toggle="collapse" href="#faq4" class="collapsed">Location of AISCON next year?<i
                     class="fa fa-minus-circle"></i></a>
-                <div id="faq3" class="collapse" data-parent="#faq-list">
+                <div id="faq4" class="collapse" data-parent="#faq-list">
                   <p>
                     Has not been decided yet, will be decided after this year's AISCON
                   </p>
@@ -64,9 +64,9 @@
               </li>
 
               <li>
-                <a data-toggle="collapse" href="#faq4" class="collapsed">Can other companies/startups showcase during
+                <a data-toggle="collapse" href="#faq5" class="collapsed">Can other companies/startups showcase during
                   AISCON<i class="fa fa-minus-circle"></i></a>
-                <div id="faq4" class="collapse" data-parent="#faq-list">
+                <div id="faq5" class="collapse" data-parent="#faq-list">
                   <p>
                     Yes, but to do so, they have to have membership with AISCON
                   </p>
@@ -74,8 +74,8 @@
               </li>
 
               <li>
-                <a data-toggle="collapse" href="#faq4" class="collapsed">What does it take to be a speaker AISCON<i class="fa fa-minus-circle"></i></a>
-                <div id="faq4" class="collapse" data-parent="#faq-list">
+                <a data-toggle="collapse" href="#faq6" class="collapsed">What does it take to be a speaker AISCON<i class="fa fa-minus-circle"></i></a>
+                <div id="faq6" class="collapse" data-parent="#faq-list">
                   <p>
                     Firstly to qualify to be a speaker at AISCON, individual/company should have membership
                     <br>
