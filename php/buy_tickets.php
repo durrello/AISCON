@@ -121,7 +121,7 @@
                   </select>
                 </div>
                 <div class="text-center">
-                  <button type="submit" class="btn">Buy Now</button>
+                <form action="" method="get" data-monetbil="form"><button class="btn" type="submit">ok</button></form>
                 </div>
               </form>
             </div>
