@@ -16,7 +16,7 @@
               <div class="hotel-img">
                 <img src="img/hotels/hotel_scandinavia.png" alt="Scandinavia hotel Newtown-Limbe" class="img-fluid">
               </div>
-              <h3><a href="#">Scandinavia hotel <br> Newtown-Limbe</a></h3>
+              <h3><a href="https://www.qscandinaviahotel.com/" target="_blank">Scandinavia hotel <br> Newtown-Limbe</a></h3>
               <div class="stars">
                 <i class="fa fa-star"></i>
                 <i class="fa fa-star"></i>
@@ -31,7 +31,7 @@
               <div class="hotel-img">
                 <img src="img/hotels/hotel_fini.png" alt="Hotel 1" class="img-fluid">
               </div>
-              <h3><a href="#">Fini Hotel <br> Limbe </a></h3>
+              <h3><a href="https://www.finihotel.com/" target="_blank">Fini Hotel <br> Limbe </a></h3>
               <div class="stars">
                 <i class="fa fa-star"></i>
                 <i class="fa fa-star"></i>
@@ -47,7 +47,7 @@
               <div class="hotel-img">
                 <img src="img/hotels/hotel_mbayaville.png" alt="Mbayaville Hotel | Douala | Cameroon" class="img-fluid">
               </div>
-              <h3><a href="#">Mbayaville Hotel <br> Douala Cameroon</a></h3>
+              <h3><a href="http://mbayavillehotel.com-cameroon.com/" target="_blank">Mbayaville Hotel <br> Douala Cameroon</a></h3>
               <div class="stars">
                 <i class="fa fa-star"></i>
                 <i class="fa fa-star"></i>

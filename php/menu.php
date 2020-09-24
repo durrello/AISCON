@@ -23,8 +23,8 @@
           <li><a href="./blog/" target="_blank">Blog</a></li>
           <li><a href="#contact">Contact</a></li>
           <li class="buy-tickets"><a href="#buy-tickets">Buy Tickets</a></li>
-          <li class="buy-tickets" data-toggle="modal" data-target="#login-modal" data-ticket-type="standard-access"><a>RESOURCES</a></li>
-          <li class="buy-tickets" data-toggle="modal" data-target="#login-modal" data-ticket-type="standard-access"><a>LOGIN</a></li>
+          <li class="buy-tickets" data-toggle="modal" data-ticket-type="standard-access"><a href="./resources/" target="_blank">RESOURCES</a></li>
+          <!-- <li class="buy-tickets" data-toggle="modal" data-target="#login-modal" data-ticket-type="standard-access"><a>RESOURCES</a></li> -->
         </ul>
       </nav><!-- #nav-menu-container -->
     </div>

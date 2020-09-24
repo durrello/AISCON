@@ -30,13 +30,10 @@
                 <div id="faq2" class="collapse" data-parent="#faq-list">
                   <p>
                     AISCON; Africa’s Information Security Conference - is organised by Zuoix, an
-                    information security company based in Limbe, Cameroon (www.zuoix.com) and Click an
-                    I.T service Company based in Douala, Cameroon (www.click-e-consulting.com). This
+                    information security company based in Limbe, Cameroon (www.zuoix.com). This
                     conference aims at educating and informing governments, businesses and individuals
                     on the negative effects of hacking and cyber crimes.
-                    The theme: ​ WIRELESS SECURITY; ​ involving phones, cars, houses, alarm systems
-                    and much more at individual and corporate or group levels. Our focus is to disarm
-                    hackers and cyber criminals and hand the power to you by showing you how the afore
+                    Our focus is to disarm hackers and cyber criminals and hand the power to you by showing you how the afore
                     mentioned groups operate, thereby saving money.
                   </p>
                 </div>
@@ -47,7 +44,7 @@
                     class="fa fa-minus-circle"></i></a>
                 <div id="faq3" class="collapse" data-parent="#faq-list">
                   <p>
-                    The theme: ​ WIRELESS SECURITY; ​ involving phones, cars, houses, alarm systems
+                    AISCON 2020 Theme: ​ WIRELESS SECURITY; ​ involving phones, cars, houses, alarm systems
                     and much more at individual and corporate or group levels
                   </p>
                 </div>

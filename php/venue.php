@@ -50,16 +50,16 @@
 
           <div class="col-lg-3 col-md-4">
             <div class="venue-gallery">
-              <a href="img/venue-gallery/rsz_hotel_6.png" class="venobox" data-gall="venue-gallery">
-                <img src="img/venue-gallery/rsz_hotel_6.png" alt="" class="img-fluid">
+              <a href="img/venue-gallery/conference.png" class="venobox" data-gall="venue-gallery">
+                <img src="img/venue-gallery/conference.png" alt="" class="img-fluid">
               </a>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-4">
             <div class="venue-gallery">
-              <a href="img/venue-gallery/rsz_hotel_6.png" class="venobox" data-gall="venue-gallery">
-                <img src="img/venue-gallery/rsz_hotel_6.png" alt="" class="img-fluid">
+              <a href="img/venue-gallery/bar.png" class="venobox" data-gall="venue-gallery">
+                <img src="img/venue-gallery/bar.png" alt="" class="img-fluid">
               </a>
             </div>
           </div>
