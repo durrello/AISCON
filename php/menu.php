@@ -21,6 +21,7 @@
           <li><a href="#gallery">Gallery</a></li>
           <li><a href="#supporters">Sponsors</a></li>
           <li><a href="./blog/" target="_blank">Blog</a></li>
+          <li><a href="#faq">FAQ</a></li>
           <li><a href="#contact">Contact</a></li>
           <li class="buy-tickets"><a href="#buy-tickets">Buy Tickets</a></li>
           <li class="buy-tickets" data-toggle="modal" data-ticket-type="standard-access"><a href="./resources/" target="_blank">RESOURCES</a></li>
