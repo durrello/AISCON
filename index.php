@@ -6,7 +6,6 @@ include 'php/login.php';
 include 'php/slider.php';
 include 'php/about.php';
 include 'php/speakers.php';
-include 'php/schedule.php';
 include 'php/venue.php';
 include 'php/hotels.php';
 include 'php/gallery.php';
@@ -18,3 +17,4 @@ include 'contact.php';
 include 'php/footer.php';
 include 'php/js_files.php';
 ?>
+
