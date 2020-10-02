@@ -20,7 +20,7 @@
           <li><a href="#hotels">Hotels</a></li>
           <li><a href="#gallery">Gallery</a></li>
           <li><a href="#supporters">Sponsors</a></li>
-          <li><a href="./blog/" target="_blank">Blog</a></li>
+          <li><a href="./blog/">Blog</a></li>
           <li><a href="#faq">FAQ</a></li> 
           <li><a href="#contact">Contact</a></li>
           <li class="buy-tickets"><a href="#buy-tickets">Buy Tickets</a></li>
