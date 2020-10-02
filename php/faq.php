@@ -19,13 +19,13 @@
                 <div id="faq1" class="collapse" data-parent="#faq-list">
                   <p>
                     Yes, but due to the ongoing COVID-19 pandemic AISCON 2020 is going to be a virtual event,
-                    link to join the conference will be shared as the day approaches
+                    link to join the conference will be shared as the day approaches.
                   </p>
                 </div>
               </li>
 
               <li>
-                <a data-toggle="collapse" class="collapsed" href="#faq2">What is AISCON
+                <a data-toggle="collapse" class="collapsed" href="#faq2">What is AISCON?
                   <i class="fa fa-minus-circle"></i></a>
                 <div id="faq2" class="collapse" data-parent="#faq-list">
                   <p>
@@ -40,12 +40,12 @@
               </li>
 
               <li>
-                <a data-toggle="collapse" href="#faq3" class="collapsed">What is this year's theme <i
+                <a data-toggle="collapse" href="#faq3" class="collapsed">What is this year's theme?<i
                     class="fa fa-minus-circle"></i></a>
                 <div id="faq3" class="collapse" data-parent="#faq-list">
                   <p>
                     AISCON 2020 Theme: ​ WIRELESS SECURITY; ​ involving phones, cars, houses, alarm systems
-                    and much more at individual and corporate or group levels
+                    and much more at individual and corporate or group levels.
                   </p>
                 </div>
               </li>
@@ -55,28 +55,27 @@
                     class="fa fa-minus-circle"></i></a>
                 <div id="faq4" class="collapse" data-parent="#faq-list">
                   <p>
-                    Has not been decided yet, will be decided after this year's AISCON
+                    Has not been decided yet, will be decided after this year's AISCON.
                   </p>
                 </div>
               </li>
 
               <li>
-                <a data-toggle="collapse" href="#faq5" class="collapsed">Can other companies/startups showcase during
-                  AISCON<i class="fa fa-minus-circle"></i></a>
+                <a data-toggle="collapse" href="#faq5" class="collapsed">Can other companies/startups showcase during AISCON?<i class="fa fa-minus-circle"></i></a>
                 <div id="faq5" class="collapse" data-parent="#faq-list">
                   <p>
-                    Yes, but to do so, they have to have membership with AISCON
+                    Yes, but to do so, they have to have membership with AISCON.
                   </p>
                 </div>
               </li>
 
               <li>
-                <a data-toggle="collapse" href="#faq6" class="collapsed">What does it take to be a speaker AISCON<i class="fa fa-minus-circle"></i></a>
+                <a data-toggle="collapse" href="#faq6" class="collapsed">What does it take to be a speaker AISCON?<i class="fa fa-minus-circle"></i></a>
                 <div id="faq6" class="collapse" data-parent="#faq-list">
                   <p>
-                    Firstly to qualify to be a speaker at AISCON, individual/company should have membership
+                    Firstly to qualify to be a speaker at AISCON, individual/company should have membership.
                     <br>
-                    Secondly, the individual is required to have written, verified and publich articles on the AISCON blog
+                    Secondly, the individual is required to have written, verified and publich articles on the AISCON blog.
                   </p>
                 </div>
               </li>

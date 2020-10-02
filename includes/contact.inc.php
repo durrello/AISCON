@@ -8,9 +8,10 @@ if (isset($_POST['submit'])) {
     $email = mysqli_real_escape_string($conn, $_POST['email']);
     $country = mysqli_real_escape_string($conn, $_POST['country']);
     $city = mysqli_real_escape_string($conn, $_POST['city']);
-  //  $phone = mysqli_real_escape_string($conn, $_POST['phone']);
+    $number = mysqli_real_escape_string($conn, $_POST['number']);
     $subject = mysqli_real_escape_string($conn, $_POST['subject']);
     $message = mysqli_real_escape_string($conn, $_POST['message']);
+    $id = mysqli_real_escape_string($conn, $_POST['id']);
 
     //error handler
     //check for empty field
@@ -20,7 +21,7 @@ if (isset($_POST['submit'])) {
         exit();
     } else {
         //check if input characters are valid
-        if (!preg_match("/^[a-zA-Z]*$/", $name) || !preg_match("/^[a-zA-Z]*$/", $country) || !preg_match("/^[a-zA-Z]*$/", $city) || !preg_match("/^[a-zA-Z]*$/", $subject) || !preg_match("/^[a-zA-Z]*$/", $message)) {
+        if (!preg_match("/^[a-zA-Z]*$/", $country) || !preg_match("/^[a-zA-Z]*$/", $city) || !preg_match("/^[a-zA-Z]*$/", $subject) || !preg_match("/^[a-zA-Z]*$/", $message)) {
             header("Location: ../index.php?contact=invalid");
             exit();
         } else {
@@ -29,7 +30,7 @@ if (isset($_POST['submit'])) {
                 header("Location: ../index.php?contact=email");
                 exit();
             } else {
-                $sql = "SELECT * from contacts WHERE contact_name='$name'";
+                $sql = "SELECT * from contacts WHERE contact_id='$id'";
 
                 $result = mysqli_query($conn, $sql);
                 $resultCheck = mysqli_num_rows($result);
@@ -40,7 +41,7 @@ if (isset($_POST['submit'])) {
                 } else {
 
                     // //insert the message and contact into the database
-                    $sql = "INSERT INTO contacts (contact_name, contact_email, contact_country,  contact_city, contact_subject, contact_message) VALUES ('$name', '$email', '$country', '$city', '$subject', '$message');";
+                    $sql = "INSERT INTO contacts (contact_name, contact_email, contact_country,  contact_city, contact_number, contact_subject, contact_message) VALUES ('$name', '$email', '$country', '$city', '$number', '$subject', '$message');";
                     mysqli_query($conn, $sql);
                     
                     header("Location: ../index.php?contact=success");

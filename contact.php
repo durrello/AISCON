@@ -45,7 +45,7 @@
             <div class="form-row">
               <div class="form-group col-md-6">
                 <input type="text" name="name" class="form-control" id="name" placeholder="Name"
-                  data-rule="minlen:4" data-msg="Please enter at least 4 chars" required/>
+                  data-rule="minlen:4" data-msg="Please enter at least 4 chars" required pattern="[a-zA-Z\s]+"/>
                   <div class="validation"></div>
               </div>
               <div class="form-group col-md-6">
@@ -63,6 +63,12 @@
               <div class="form-group col-md-6">
               <input type="text" class="form-control" name="city" id="city" placeholder="City"
                   data-rule="city" data-msg="Please enter a valid email" required/>
+                  <div class="validation"></div>
+              </div>
+
+              <div class="form-group col-md-6">
+              <input type="tel" maxlength="9" minlength="9" class="form-control" name="number" id="number" placeholder="Phone Number"
+                  data-rule="number" data-msg="Please enter a valid Phone number" required pattern="[0-9]{9}"/>
                   <div class="validation"></div>
               </div>
               <!-- <div class="form-group col-md-6">

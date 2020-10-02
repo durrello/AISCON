@@ -61,14 +61,10 @@
       <div class="owl-carousel gallery-carousel">
         <a href="img/gallery/2019/rsz_35.png" class="venobox" data-gall="gallery-carousel"><img
             src="img/gallery/2019/rsz_35.png" alt=""></a>
-        <a href="img/gallery/2019/rsz_10.png" class="venobox" data-gall="gallery-carousel"><img
-            src="img/gallery/2019/rsz_10.png" alt=""></a>
         <a href="img/gallery/2019/rsz_111.png" class="venobox" data-gall="gallery-carousel"><img
             src="img/gallery/2019/rsz_111.png" alt=""></a>
         <a href="img/gallery/2019/rsz_112.png" class="venobox" data-gall="gallery-carousel"><img
             src="img/gallery/2019/rsz_112.png" alt=""></a>
-        <a href="img/gallery/2019/rsz_13.png" class="venobox" data-gall="gallery-carousel"><img
-            src="img/gallery/2019/rsz_13.png" alt=""></a>
         <a href="img/gallery/2019/rsz_134.png" class="venobox" data-gall="gallery-carousel"><img
             src="img/gallery/2019/rsz_134.png" alt=""></a>
         <a href="img/gallery/2019/rsz_139.png" class="venobox" data-gall="gallery-carousel"><img
@@ -97,7 +93,6 @@
             src="img/gallery/2019/rsz_26.png" alt=""></a>
         <a href="img/gallery/2019/rsz_27.png" class="venobox" data-gall="gallery-carousel"><img
             src="img/gallery/2019/rsz_27.png" alt=""></a>
-
         <a href="img/gallery/2019/rsz_19.png" class="venobox" data-gall="gallery-carousel"><img
             src="img/gallery/2019/rsz_19.png" alt=""></a>
         <a href="img/gallery/2019/rsz_28.png" class="venobox" data-gall="gallery-carousel"><img
