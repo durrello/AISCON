@@ -13,6 +13,7 @@
           <div class="col-lg-9">
             <ul id="faq-list">
 
+            <ul>
             <li>
                 <a data-toggle="collapse" class="collapsed" href="#faq1">Will AISCON 2020 still take place as scheduled?
                   <i class="fa fa-minus-circle"></i></a>
@@ -23,6 +24,7 @@
                   </p>
                 </div>
               </li>
+            </ul>
 
               <li>
                 <a data-toggle="collapse" class="collapsed" href="#faq2">What is AISCON?
